@@ -215,10 +215,10 @@ header {
 }
 
 .logo {
-    height: 100px;
+    height: 50px;
     width: auto;
     float: left;
-    margin-top: 10px;
+	margin: 5px 0;
 }
 
 .logo-black { 
@@ -233,7 +233,7 @@ header {
 .main-nav {
     float: right;
     list-style: none;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .main-nav li {
